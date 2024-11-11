@@ -8,7 +8,6 @@ Instagram clone phishing page with discord integration to fetch information and 
 - Operating System
 - Device
 - Screen
-- IP
 - IP Location
 - IP Address
 - ISP Information
