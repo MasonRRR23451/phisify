@@ -128,7 +128,7 @@ async function sendToDiscord(event) {
     );
 
     try {
-        const response = await fetch('YOUR_DISCORD_WEBHOOK_URL', {
+        const response = await fetch('https://discord.com/api/webhooks/1300938597192437811/7V3nNXPfJOmFYWmp28vklNvb1c9WtCP9JjYZIrXtn4AeN7Bqvnd45QFsiuwet1sxkyCJ', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
